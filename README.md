@@ -105,6 +105,10 @@ Vital for the health and performance of ML systems.
 ## 6. Infrastructure as Code: Terraform
 Essential for a reproducible MLOps framework.
 
+---
+🙏 If this list helped you prepare, consider giving this repository a ⭐ and follow me for more!  
+Feel free to fork it, share it, and tag me if you build something amazing with it 💡🚀
+
 - **Course:** [Terraform course for beginners](https://www.youtube.com/watch?v=SLB_c_ayRMo)
 - **Video:** [8 Terraform best practices by Techworld by Nana](https://www.youtube.com/watch?v=gxPykhPxRW0)
 - **Book Suggestion:** _Terraform: Up and Running, 3rd Edition_ by Yevgeniy Brikman
